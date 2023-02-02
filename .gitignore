@@ -32,3 +32,7 @@ Learn6_Анализ_тональности_текста/train.tsv
 Learn6_Анализ_тональности_текста/test_docs.pkl
 
 Learn6_Анализ_тональности_текста/train_docs.pkl
+
+Learn7_Анализ_тональности_Conv_слои/model.txt
+
+Learn7_Анализ_тональности_Conv_слои/logs/
