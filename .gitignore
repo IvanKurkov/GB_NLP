@@ -36,3 +36,5 @@ Learn6_Анализ_тональности_текста/train_docs.pkl
 Learn7_Анализ_тональности_Conv_слои/model.txt
 
 Learn7_Анализ_тональности_Conv_слои/logs/
+
+Learn8_Реккурентные_слои_RNN_LSTM/data/
