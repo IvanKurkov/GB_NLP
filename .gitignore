@@ -38,3 +38,9 @@ Learn7_Анализ_тональности_Conv_слои/model.txt
 Learn7_Анализ_тональности_Conv_слои/logs/
 
 Learn8_Реккурентные_слои_RNN_LSTM/data/
+
+Learn10_seq2seq_переводчик/training_nmt_checkpoints/
+
+Learn10_seq2seq_переводчик/rus-eng/
+
+Learn10_seq2seq_переводчик/rus-eng.zip
