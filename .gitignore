@@ -48,3 +48,13 @@ Learn10_seq2seq_переводчик/rus-eng.zip
 Learn11_Transformers/rus-eng/
 
 Learn11_Transformers/training_attention_checkpoints/
+
+Learn12_summarisation/gazeta_test.txt
+
+Learn12_summarisation/gazeta_train.txt
+
+Learn12_summarisation/gazeta_val.txt
+
+Learn12_summarisation/.ipynb_checkpoints/
+
+Learn12_summarisation/images/
